@@ -1,0 +1,26 @@
+ {
+  "manifest_version": 2,
+  "name": "Subdomain Recon",
+  "version": "1.0",
+  "description": "Passive subdomain enumeration and security recon tool",
+
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "<all_urls>"
+  ],
+
+  "browser_action": {
+    "default_title": "Subdomain Recon",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png",
+      "96": "icon.png"
+    }
+  },
+
+  "icons": {
+    "48": "icon.png",
+    "96": "icon.png"
+  }
+}
