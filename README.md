@@ -1,35 +1,35 @@
-#🔐 Subdomain Recon – Advanced Firefox Reconnaissance Extension
+<h1>🔐 Subdomain Recon – Advanced Firefox Reconnaissance Extension</h1>
 
 A professional browser-based reconnaissance tool for passive subdomain discovery, live asset validation, and risk classification — built for security practitioners.
 
 <img width="452" height="189" alt="image" src="https://github.com/user-attachments/assets/39332ab4-a083-4f26-8062-86c27fdbc144" />
 
-##📌 Overview
+<h2>📌 Overview</h2>
 
 Subdomain Recon is a Firefox WebExtension designed to streamline reconnaissance workflows directly within the browser.
 
 
-Live availability detection
+⤧ Live availability detection
 
-Risk-based classification
+⤧ Risk-based classification
 
-Search and filtering
+⤧ Search and filtering
 
-Structured export capabilities
+⤧ Structured export capabilities
 
-This extension is designed for SOC analysts, penetration testers, red teamers, and bug bounty hunters who need fast, contextual asset visibility without leaving their browser.
+💫This extension is designed for SOC analysts, penetration testers, red teamers, and bug bounty hunters who need fast, contextual asset visibility without leaving their browser.
 
-#🧠 Core Capabilities
+<h1>🪄Core Capabilities</h1>
 
-##🟢 Live Asset Detection
+<h2>🟢 Live Asset Detection</h2>
 
-Identifies reachable vs unreachable subdomains
+● Identifies reachable vs unreachable subdomains
 
-Real-time response validation
+● Real-time response validation
 
-##🏷️ Risk Tagging Engine
+<h2>🏷️ Risk Tagging Engine</h2>
 
-Automatic keyword-based classification:
+● Automatic keyword-based classification:
 
 ADMIN
 
@@ -37,22 +37,22 @@ API
 
 DEV
 
-Helps prioritize potentially sensitive endpoints.
+● Helps prioritize potentially sensitive endpoints.
 
-##📊 Data Handling
+<h2>📊 Data Handling</h2>
 
-Search & filter discovered subdomains
+● Search & filter discovered subdomains
 
-Copy individual entries
+● Copy individual entries
 
-Bulk copy all results
+● Bulk copy all results
 
-Export to CSV for reporting
+● Export to CSV for reporting
 
-##⚙️ Controlled Execution
+<h2>⚙️ Controlled Execution</h2>
 
-Manual “Scan Domain” trigger
+● Manual “Scan Domain” trigger
 
-No automatic background scanning
+● No automatic background scanning
 
-Clean and predictable behavior
+● Clean and predictable behavior
